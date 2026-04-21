@@ -24,7 +24,7 @@ File:
 
 ---
 
-### 📊 Project Two Presentation
+### Project Two Presentation
 This presentation explains the vulnerabilities identified, secure coding improvements made, and overall results of the project.
 
 - CS 405 Project Two Presentation
@@ -57,6 +57,6 @@ This repository is submitted as my final portfolio for CS 405.
 
 ---
 
-## 📬 Contact
+## Contact
 Jeremia Lim  
-GitHub: https://github.com/[your-username]
+GitHub: https://github.com/Jeremia-Lim
